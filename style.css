@@ -1,0 +1,28 @@
+body {
+  background: pink;
+  color: green;
+  font-family: Arial, sans-serif;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+  border: 3px dotted black;
+  padding: 9px;
+}
+li {
+  font-size: 30px;
+  border: 3px solid black;
+  padding: 3px;
+  margin: 10px;
+  line-height: 2;
+}
+img {
+  height: 300px;
+  text-align: center;
+  width: auto;
+}
